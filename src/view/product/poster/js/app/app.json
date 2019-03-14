@@ -1,0 +1,187 @@
+{
+    "posJson": {
+        "top": 5,
+        "left": 10
+    },
+    "key": {
+        "1": "text",
+        "2": "img",
+        "3": "nickname",
+        "4": "avatar",
+        "5": "minacode",
+        "6": "gallery"
+    },
+    "initPage": {
+        "page": "page",
+        "json": [],
+        "bgImage": {
+            "backgroundColor": "",
+            "coord": "",
+            "url": ""
+        }
+    },
+    "initJsons": {
+        "text": {
+            "type": 1,
+            "content": "你要编辑的文字",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 300,
+            "height": 38,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "color": "rgba(51, 51, 51,1)",
+                "opacity": 100,
+                "padding": 0,
+                "lineHeight": 1,
+                "fontFamily": "",
+                "fontSize": 24,
+                "writingMode": "horizontal-tb",
+                "textAlign": "left",
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textDecoration": "none",
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0,
+                "rotate": 0
+            }
+        },
+        "img": {
+            "type": 2,
+            "content": "",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 175,
+            "height": 175,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "opacity": 100,
+                "padding": 0,
+                "rotate": 0,
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0
+            }
+        },
+        "nickname": {
+            "type": 3,
+            "content": "昵称",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 300,
+            "height": 38,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "color": "rgba(51, 51, 51,1)",
+                "opacity": 100,
+                "padding": 0,
+                "lineHeight": 1,
+                "fontFamily": "",
+                "fontSize": 24,
+                "writingMode": "horizontal-tb",
+                "textAlign": "left",
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textDecoration": "none",
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0,
+                "rotate": 0
+            }
+        },
+        "avatar": {
+            "type": 4,
+            "content": "",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 175,
+            "height": 175,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "opacity": 100,
+                "padding": 0,
+                "rotate": 0,
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0
+            }
+        },
+        "minacode": {
+            "type": 5,
+            "content": "",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 175,
+            "height": 175,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "opacity": 100,
+                "padding": 0,
+                "rotate": 0,
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0
+            }
+        },
+        "gallery": {
+            "type": 6,
+            "content": "",
+            "position": {
+                "top": 0,
+                "left": 10
+            },
+            "width": 175,
+            "height": 175,
+            "text": {
+                "backgroundColor": "rgba(0,0,0,0)",
+                "opacity": 100,
+                "padding": 0,
+                "rotate": 0,
+                "borderWidth": 0,
+                "borderRadius": 0,
+                "borderColor": "rgba(204, 204, 204,1)",
+                "borderStyle": "solid",
+                "shadowColor": "rgba(204, 204, 204,1)",
+                "shadowWidth": 0,
+                "shadowRadius": 10,
+                "shadowDire": 0
+            }
+        }
+    }
+}
